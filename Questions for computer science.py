@@ -371,7 +371,6 @@ else:
 print("Next question")
 
 
-
 q10 = input ("10. Who, in your life, is/are important to you: family, friends or partner?​ ").lower() 
 while q10 != "family" or "friends" or "partner": 
     if q10 == "family": 
